@@ -9,7 +9,7 @@
 <body>
 
   <header>
-    <img src="imagens/banner.jpg" alt="Banner do Portal Jovem" style="width:100%; height:auto;">
+    <img src="imagens/banner.jpg" alt="Procurando alguma série?" style="width:100%; height:auto;">
     <h1> Recomendando as melhores séries do momento!</h1>
   </header>
 
@@ -25,9 +25,9 @@
 
   <main>
     <section>
-      <h2>Um breve resumo sobre cada uma!o</h2>
+      <h2>Um breve resumo sobre cada uma!</h2>
       <article><h3>1. The chosen</h3><p>Série dramática que retrata a vida de Jesus Cristo sob a perspectiva das pessoas que o conheceram.</p></article>
-      <article><h3>2.Peaky Blinders</h3><p>Gangue liderada por Tommy Shelby ascende ao poder no submundo britânico pós-Primeira Guerra. !</p></article>
+      <article><h3>2.Peaky Blinders</h3><p>Gangue liderada por Tommy Shelby ascende ao poder no submundo britânico pós-Primeira Guerra.</p></article>
       <article><h3>3. Prision Break</h3><p>Um engenheiro elabora um plano complexo para tirar seu irmão injustamente condenado da prisão.</p></article>
       <article><h3>4. This is Us</h3><p> A emocionante história de uma família ao longo de décadas, explorando amor, perda e conexões profundas.</p></article>
       <article><h3>5.Stringer Things</h3><p><Crianças enfrentam forças sobrenaturais e segredos governamentais após o desaparecimento de um amigo.</p></article>
@@ -39,7 +39,7 @@
     </section>
 
     <section>
-      <h2>🖼️ Galeria</h2>
+      <h2>🖼️ Gostou de alguma série?</h2>
       <p>Adicione suas imagens favoritas aqui. Crie uma pasta chamada <strong>imagens</strong> e coloque suas fotos lá.</p>
       <img src="imagens/exemplo.jpg" alt="Imagem exemplo" width="300">
     </section>
