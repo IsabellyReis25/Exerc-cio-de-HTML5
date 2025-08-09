@@ -19,7 +19,7 @@
       <li><a href="#">Peaky Blinders</a></li>
       <li><a href="#">Prison Break</a></li>
       <li><a href="#">This is Us</a></li>
-      <li><a href="#">Stringer Things</a></li>
+      <li><a href="#">Stranger Things</a></li>
     </ul>
   </nav>
 
@@ -28,9 +28,9 @@
       <h2>Um breve resumo sobre cada uma!</h2>
       <article><h3>1. The chosen</h3><p>Série dramática que retrata a vida de Jesus Cristo sob a perspectiva das pessoas que o conheceram.</p></article>
       <article><h3>2.Peaky Blinders</h3><p>Gangue liderada por Tommy Shelby ascende ao poder no submundo britânico pós-Primeira Guerra.</p></article>
-      <article><h3>3. Prision Break</h3><p>Um engenheiro elabora um plano complexo para tirar seu irmão injustamente condenado da prisão.</p></article>
+      <article><h3>3. Prison Break</h3><p>Um engenheiro elabora um plano complexo para tirar seu irmão injustamente condenado da prisão.</p></article>
       <article><h3>4. This is Us</h3><p> A emocionante história de uma família ao longo de décadas, explorando amor, perda e conexões profundas.</p></article>
-      <article><h3>5.Stringer Things</h3><p>Crianças enfrentam forças sobrenaturais e segredos governamentais após o desaparecimento de um amigo.</p></article>
+      <article><h3>5.Stranger Things</h3><p>Crianças enfrentam forças sobrenaturais e segredos governamentais após o desaparecimento de um amigo.</p></article>
     </section>
 
     <section>
