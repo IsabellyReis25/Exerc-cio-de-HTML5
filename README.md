@@ -34,8 +34,8 @@
     </section>
 
     <section>
-      <h2>Qual dessas mais tem agradou?</h2>
-      <p>Stranger Things é a mais famosa por seu grande alcance global, impacto na cultura pop e sucesso com diferentes gerações graças à mistura de nostalgia, suspense e ficção científica.</p>
+      <h2>Quer fugir totalmente das séries do momento e maratonar uma série com muitas temporadas?</h2>
+      <p>Supernatural é uma série de televisão americana que segue os irmãos Sam e Dean Winchester em suas viagens pelo país, caçando criaturas sobrenaturais e lutando contra o mal. A série explora temas como família, destino, livre-arbítrio e a luta entre o bem e o mal, contendo 15 temporadas épicas com 327 episódios no total.</p>
     </section>
 
     <section>
