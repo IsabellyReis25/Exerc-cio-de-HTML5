@@ -30,7 +30,7 @@
       <article><h3>2.Peaky Blinders</h3><p>Gangue liderada por Tommy Shelby ascende ao poder no submundo britânico pós-Primeira Guerra.</p></article>
       <article><h3>3. Prision Break</h3><p>Um engenheiro elabora um plano complexo para tirar seu irmão injustamente condenado da prisão.</p></article>
       <article><h3>4. This is Us</h3><p> A emocionante história de uma família ao longo de décadas, explorando amor, perda e conexões profundas.</p></article>
-      <article><h3>5.Stringer Things</h3><p><Crianças enfrentam forças sobrenaturais e segredos governamentais após o desaparecimento de um amigo.</p></article>
+      <article><h3>5.Stringer Things</h3><p>Crianças enfrentam forças sobrenaturais e segredos governamentais após o desaparecimento de um amigo.</p></article>
     </section>
 
     <section>
