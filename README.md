@@ -40,8 +40,8 @@
 
     <section>
       <h2>🖼️ Gostou de alguma série?</h2>
-      <p>Aqui estão imagens ilustralivas que irão te motivacionar e te influenciar a passar horas maratonando essas séries no conforto de sua casa.</p>
-      <img src="imagens/exemplo.jpg" alt="Imagem exemplo" width="300">
+      <p>Aqui está uma imagen ilustraliva que irá te motivacionar e te influenciar a passar horas maratonando essas séries no conforto de sua casa.</p>
+      <img src="imagens/exemplo.jpg" alt="" width="300">
     </section>
   </main>
 
