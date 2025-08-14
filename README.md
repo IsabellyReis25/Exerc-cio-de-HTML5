@@ -9,7 +9,7 @@
 <body>
 
   <header>
-    <img src="imagens/banner.jpg" alt="Procurando alguma série?" style="width:100%; height:auto;">
+    <img src="https://github.com/user-attachments/assets/fbc85aaf-cec2-47c7-8dc2-740d4f0c5ace" alt="Procurando alguma série?" style="width:100%; height:auto;">
     <h1> Recomendando as melhores séries do momento!</h1>
   </header>
 
