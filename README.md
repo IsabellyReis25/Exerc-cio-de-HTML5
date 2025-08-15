@@ -41,7 +41,7 @@
     <section>
       <h2>🖼️ Gostou de alguma série?</h2>
       <p>Aqui está uma imagen ilustraliva que irá te motivacionar e te influenciar a passar horas maratonando essas séries no conforto de sua casa.</p>
-      <img src="imagens/exemplo.jpg" alt="https://www.contabeis.com.br/noticias/55447/series-que-todo-contador-deveria-assistir/" width="300">
+      <img src= alt=" 300" "https://www.em.com.br/emfoco/wp-content/uploads/2025/06/netflix_1750555590996.jpg" width="300">
     </section>
   </main>
 
