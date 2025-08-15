@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Recomendação de séries</title>
+  <title>Recomendando</title>
 </head>
 <body>
 
@@ -33,15 +33,15 @@
       <article><h3>5.Stranger Things</h3><p>Crianças enfrentam forças sobrenaturais e segredos governamentais após o desaparecimento de um amigo.</p></article>
     </section>
 
-    <section>
+  <section>
       <h2>Quer fugir totalmente das séries do momento e maratonar uma série com muitas temporadas?</h2>
       <p>Supernatural é uma série de televisão americana que segue os irmãos Sam e Dean Winchester em suas viagens pelo país, caçando criaturas sobrenaturais e lutando contra o mal. A série explora temas como família, destino, livre-arbítrio e a luta entre o bem e o mal, contendo 15 temporadas épicas com 327 episódios no total.</p>
     </section>
 
-    <section>
+  <section>
       <h2>🖼️ Gostou de alguma série?</h2>
       <p>Aqui está uma imagen ilustraliva que irá te motivacionar e te influenciar a passar horas maratonando essas séries no conforto de sua casa.</p>
-      <img src= alt=" 300" "https://www.em.com.br/emfoco/wp-content/uploads/2025/06/netflix_1750555590996.jpg" width="300">
+      <img src= "https://www.em.com.br/emfoco/wp-content/uploads/2025/06/netflix_1750555590996.jpg" width="300">
     </section>
   </main>
 
